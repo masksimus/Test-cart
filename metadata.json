@@ -1,0 +1,6 @@
+{
+  "name": "Карты Таро: Расклад дня",
+  "description": "Премиальное интерактивное приложение для раскладов Таро с 3D-анимациями и виральным шерингом историй для инфлюенсеров.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
